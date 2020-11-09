@@ -22,12 +22,12 @@ This will proivde a ranking for each neighborhood of Pittsburgh with letter grad
 
 Firearm Seizures: https://data.wprdc.org/datastore/dump/e967381d-d7e9-48e3-a2a2-39262f7fa5c4
 
-Dataset 2:
+Pittsburgh Police Arrest Data: https://data.wprdc.org/datastore/dump/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
 
-Dataset 3:
+Non-Traffic Citations: https://data.wprdc.org/dataset/non-traffic-citations
 
 ## Abstract
 
-Our aim is to find the best neighborhood in Oakland. We will do so using three datasets: firearm seizures, dataset 2, and 
-dataset 3. This combination of our personal findings will combined into one metric for determining best. By our definition,
-best means safest. 
+Our aim is to find the best neighborhood in Oakland. We will do so using three datasets: firearm seizures, police arrest
+data, and non-traffic citations. The combination of our personal findings will amount to one metric for determining best.
+dataset 3. This combination of our personal findings will combined into one metric for determining best. By our definition
