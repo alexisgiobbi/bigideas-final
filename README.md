@@ -29,4 +29,5 @@ Dataset 3:
 ## Abstract
 
 Our aim is to find the best neighborhood in Oakland. We will do so using three datasets: firearm seizures, dataset 2, and 
-dataset 3
+dataset 3. This combination of our personal findings will combined into one metric for determining best. By our definition,
+best means safest. 
