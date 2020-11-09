@@ -30,4 +30,5 @@ Non-Traffic Citations: https://data.wprdc.org/dataset/non-traffic-citations
 
 Our aim is to find the best neighborhood in Oakland. We will do so using three datasets: firearm seizures, police arrest
 data, and non-traffic citations. The combination of our personal findings will amount to one metric for determining best.
-dataset 3. This combination of our personal findings will combined into one metric for determining best. By our definition
+dataset 3. This combination of our personal findings will combined into one metric for determining best. By our definition,
+best is going to mean safest, and our individual datasets reflect that. 
