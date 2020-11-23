@@ -30,3 +30,5 @@ Our aim is to find the best neighborhood in Oakland. We will do so using three d
 data, and non-traffic citations. The combination of our personal findings will amount to one metric for determining best.
 dataset 3. This combination of our personal findings will combined into one metric for determining best. By our definition,
 best is going to mean safest, and our individual datasets reflect that. 
+
+Combining the datasets using pandas and totaling the amount of incidents, we found that Regent Sqaure is the safest, and by our metric therefore best, neighborhood in Pittsburgh. 
