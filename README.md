@@ -14,9 +14,7 @@ Glizzy Gladiators
 
 ## Description 
 
-We will use a grading scale to determine which neighborhoods in Pittsburgh are the best. We will add up the amount
-of incidents per neighborhood for each dataset and compare them against a scale of the number of incidents.
-This will proivde a ranking for each neighborhood of Pittsburgh with letter grades. 
+We are deciding the best neighborhood in Pittsburgh using the datasets that are linked below. We did this by summing up each dataset's incidents per neighborhood and merging this into one dataframe. We accomplished this by using pandas, python, geopandas, and matplot.  
 
 ## Datasets
 
