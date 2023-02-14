@@ -1,9 +1,5 @@
 # Big Ideas Final Project
 
-## Team
-
-Glizzy Gladiators
-
 ## Team Members
 
 **Name:** Alexis Giobbi **Email:** aeg70@pitt.edu
